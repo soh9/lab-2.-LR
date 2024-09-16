@@ -1,1 +1,1 @@
-# lab-2.-LR
+# labs for data analysis 2
